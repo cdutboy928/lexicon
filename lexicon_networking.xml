@@ -5,7 +5,32 @@
     <alias>By the way</alias>
   </lexeme>
   <lexeme>
-    <grapheme>N^2 </grapheme>
+    <grapheme>N^2</grapheme>
     <alias>N的平方</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>LSAck</grapheme>
+    <alias>L S A C K</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>N x (N-1)/2 </grapheme>
+    <alias>N乘以N减1除以2</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>2N-3</grapheme>
+    <alias>2N减3</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>N-2</grapheme>
+    <alias>N减2</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>AllDRouters</grapheme>
+    <alias>all D routers</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>AllSPFRouters</grapheme>
+    <alias>all SPF routers</alias>
+  </lexeme>
+
 </lexicon>
