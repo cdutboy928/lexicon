@@ -32,5 +32,10 @@
     <grapheme>AllSPFRouters</grapheme>
     <alias>all SPF routers</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>P2MP</grapheme>
+    <alias>P to M P</alias>
+  </lexeme>
+
 
 </lexicon>
