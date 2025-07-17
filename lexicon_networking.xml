@@ -343,4 +343,215 @@
     <grapheme>802.1Q</grapheme>
     <alias>八零二点一 Q</alias>
   </lexeme>
+
+  <lexeme>
+    <grapheme>7900E-12</grapheme>
+    <alias>七九零零E杠12</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>7900E-24</grapheme>
+    <alias>七九零零E杠24</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>7900E-32</grapheme>
+    <alias>七九零零E杠32</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>SLA</grapheme>
+    <phoneme>S L A</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>QoS</grapheme>
+    <phoneme>Q O S</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>MPLS</grapheme>
+    <phoneme>M P L S</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HQoS</grapheme>
+    <phoneme>H Q O S</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>VPN</grapheme>
+    <phoneme>V P N</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>VLL</grapheme>
+    <phoneme>V L L</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PWE3</grapheme>
+    <phoneme>P W E san1</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>L3VPN</grapheme>
+    <phoneme>L san1 V P N</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>FlexE</grapheme>
+    <phoneme>Flex E</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>MAC</grapheme>
+    <phoneme>M A C</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PHY</grapheme>
+    <phoneme>P H Y</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>FlexE Shim</grapheme>
+    <phoneme>Flex E Shim</phoneme>
+    <alias>FlexE的Shim层</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>NCE</grapheme>
+    <phoneme>N C E</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>IFIT</grapheme>
+    <phoneme>I F I T</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>AI</grapheme>
+    <phoneme>A I</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>GPS</grapheme>
+    <phoneme>G P S</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>1588v2</grapheme>
+    <phoneme>yao1 wu3 ba1 ba1 v er4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PTP</grapheme>
+    <phoneme>P T P</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>LTE</grapheme>
+    <phoneme>L T E</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>G.8273.2</grapheme>
+    <phoneme>G dian3 ba1 er4 qi1 san1 dian3 er4</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>IPv6</grapheme>
+    <phoneme>I P v liu4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>OSPFv3</grapheme>
+    <phoneme>O S P F v san1</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>IS-ISv6</grapheme>
+    <phoneme>I S I S v liu4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>FIB</grapheme>
+    <phoneme>F I B</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>100G</grapheme>
+    <phoneme>yi4 bai3 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>400G</grapheme>
+    <phoneme>si4 bai3 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>30G</grapheme>
+    <phoneme>san1 shi2 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>50G</grapheme>
+    <phoneme>wu3 shi2 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>20G</grapheme>
+    <phoneme>er4 shi2 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>10G</grapheme>
+    <phoneme>shi2 G</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>5G</grapheme>
+    <phoneme>wu3 G</phoneme>
+  </lexeme>
+  
+  <lexeme>
+    <grapheme>ns</grapheme>
+    <phoneme>na4 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>us</grapheme>
+    <phoneme>wei1 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>±30ns</grapheme>
+    <phoneme>zheng4 fu4 san1 shi2 na4 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>±1us</grapheme>
+    <phoneme>zheng4 fu4 yi1 wei1 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>±5ns</grapheme>
+    <phoneme>zheng4 fu4 wu3 na4 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>±200ns</grapheme>
+    <phoneme>zheng4 fu4 liang3 bai3 na4 miao3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>120000s</grapheme>
+    <phoneme>shi2 er4 wan4 miao3</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>64B/66B</grapheme>
+    <phoneme>liu4 shi2 si4 B xie2 gang4 liu4 shi2 liu4 B</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>7x24</grapheme>
+    <phoneme>qi1 cheng2 er4 shi2 si4</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>网络分片</grapheme>
+    <phoneme>wang3 luo4 fen1 pian4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>拥塞</grapheme>
+    <phoneme>yong1 se4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>调度</grapheme>
+    <phoneme>diao4 du4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>队列调度算法</grapheme>
+    <phoneme>dui4 lie4 diao4 du4 suan4 fa3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>精确调度</grapheme>
+    <phoneme>jing1 que4 diao4 du4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>时隙</grapheme>
+    <phoneme>shi2 xi4</phoneme>
+  </lexeme>
+   <lexeme>
+    <grapheme>倒换</grapheme>
+    <phoneme>dao3 huan4</phoneme>
+  </lexeme>
 </lexicon>
