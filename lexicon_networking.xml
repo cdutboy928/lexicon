@@ -554,4 +554,13 @@
     <grapheme>倒换</grapheme>
     <phoneme>dao3 huan4</phoneme>
   </lexeme>
+
+   <lexeme>
+    <grapheme>us</grapheme>
+    <phoneme>微秒</phoneme>
+  </lexeme>
+   <lexeme>
+    <grapheme>ns</grapheme>
+    <phoneme>纳秒</phoneme>
+  </lexeme>
 </lexicon>
