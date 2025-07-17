@@ -36,6 +36,180 @@
     <grapheme>P2MP</grapheme>
     <alias>P to M P</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>WDM</grapheme>
+    <phoneme>dˈa bˈu dˈi ˈɛm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mux</grapheme>
+    <alias>Multiplexer</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Demux</grapheme>
+    <alias>Demultiplexer</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OSC</grapheme>
+    <phoneme>oˈu ˈɛs sˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>OA</grapheme>
+    <phoneme>oˈu eˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>EDFA</grapheme>
+    <phoneme>ˈi dˈi ˈɛf eˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>BA</grapheme>
+    <phoneme>bˈi eˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>LA</grapheme>
+    <phoneme>ˈɛl eˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PA</grapheme>
+    <phoneme>pˈi eˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>DCN</grapheme>
+    <phoneme>dˈi sˈi ˈɛn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>NEs</grapheme>
+    <phoneme>ˈɛn ˈi s</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>NMS</grapheme>
+    <phoneme>ˈɛn ˈɛm ˈɛs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>SFIU</grapheme>
+    <phoneme>ˈɛs ˈɛf ˈaɪ jˈu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>SFU</grapheme>
+    <phoneme>ˈɛs ˈɛf jˈu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>OTN</grapheme>
+    <phoneme>oˈu tˈi ˈɛn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>FIU</grapheme>
+    <phoneme>ˈɛf ˈaɪ jˈu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>OTU</grapheme>
+    <phoneme>oˈu tˈi jˈu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>SNMP</grapheme>
+    <phoneme>ˈɛs ˈɛn ˈɛm pˈi</phoneme>
+  </lexeme>
 
+  <lexeme>
+    <grapheme>ST2</grapheme>
+    <alias>ST二</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>3R</grapheme>
+    <alias>三R</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>4K</grapheme>
+    <alias>四K</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LINE1</grapheme>
+    <alias>Line一</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LINE2</grapheme>
+    <alias>Line二</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SYS1</grapheme>
+    <alias>SYS一</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SYS2</grapheme>
+    <alias>SYS二</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OSC1</grapheme>
+    <alias>OSC一</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OSC2</grapheme>
+    <alias>OSC二</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>1+1</grapheme>
+    <alias>一加一</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>IEEE 1588v2</grapheme>
+    <alias>I triple E 一五八八 v 二</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>C波段</grapheme>
+    <alias>C波段</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>合波器</grapheme>
+    <phoneme>he2 bo1 qi4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>分波器</grapheme>
+    <phoneme>fen1 bo1 qi4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>掺铒光纤放大器</grapheme>
+    <phoneme>chan1 er4 guang1 xian1 fang4 da4 qi4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>环行器</grapheme>
+    <phoneme>huan2 xing2 qi4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>法拉第效应</grapheme>
+    <alias>法拉第效应</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Add</grapheme>
+    <alias>上路</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Drop</grapheme>
+    <alias>下路</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>IN</grapheme>
+    <phoneme>ˈɪn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>OUT</grapheme>
+    <phoneme>ˈaʊt</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>TC</grapheme>
+    <phoneme>tˈi sˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>RC</grapheme>
+    <phoneme>a er sˈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>TM</grapheme>
+    <phoneme>tˈi ˈɛm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>RM</grapheme>
+    <phoneme>a er ˈɛm</phoneme>
+  </lexeme>
 
 </lexicon>
