@@ -211,5 +211,136 @@
     <grapheme>RM</grapheme>
     <phoneme>a er ˈɛm</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>OptiX</grapheme>
+    <alias>Optics</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>HedEx</grapheme>
+    <alias>Hed Ex</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Info-Finder</grapheme>
+    <alias>Info Finder</alias>
+  </lexeme>
 
+  <lexeme>
+    <grapheme>PTN</grapheme>
+    <alias>P T N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Schema</grapheme>
+    <alias>Schema</alias> </lexeme>
+  <lexeme>
+    <grapheme>License</grapheme>
+    <alias>License</alias> </lexeme>
+  <lexeme>
+    <grapheme>SDN</grapheme>
+    <alias>S D N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>FlexE</grapheme>
+    <alias>Flex E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SR-TP</grapheme>
+    <alias>S R T P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>IFIT</grapheme>
+    <alias>I F I T</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>TWAMP</grapheme>
+    <alias>T W A M P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>IP</grapheme>
+    <alias>I P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>MPLS-TP</grapheme>
+    <alias>M P L S T P</alias>
+  </lexeme>
+    <lexeme>
+    <grapheme>MPLS</grapheme>
+    <alias>M P L S</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>L2VPN</grapheme>
+    <alias>L 2 V P N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>L3VPN</grapheme>
+    <alias>L 3 V P N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>TE</grapheme>
+    <alias>T E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>QinQ</grapheme>
+    <alias>Q in Q</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>GRE</grapheme>
+    <alias>G R E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LSP</grapheme>
+    <alias>L S P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LSR</grapheme>
+    <alias>L S R</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>NMS</grapheme>
+    <alias>N M S</alias>
+  </lexeme>
+    <lexeme>
+    <grapheme>LFIB</grapheme>
+    <alias>L F I B</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>PHP</grapheme>
+    <alias>P H P</alias>
+  </lexeme>
+    <lexeme>
+    <grapheme>LDP</grapheme>
+    <alias>L D P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>RSVP-TE</grapheme>
+    <alias>R S V P T E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>QoS</grapheme>
+    <alias>Q o S</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>VLAN</grapheme>
+    <alias>V L A N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ID</grapheme>
+    <alias>I D</alias>
+  </lexeme>
+    <lexeme>
+    <grapheme>CPU</grapheme>
+    <alias>C P U</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>IEEE</grapheme>
+    <alias>I triple E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>802.1ad</grapheme>
+    <alias>八零二点一 A D</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>802.1Q</grapheme>
+    <alias>八零二点一 Q</alias>
+  </lexeme>
 </lexicon>
