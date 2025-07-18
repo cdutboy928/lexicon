@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon version="1.0"
+         xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+         alphabet="x-microsoft-pinyin" xml:lang="zh-CN">
+  
+  <lexeme>
+    <grapheme>EMI</grapheme>
+    <phoneme alphabet="sapi">iy eh m ay</phoneme>
+  </lexeme>
+  
+  <lexeme>
+    <grapheme>CPU</grapheme>
+    <alias>C P U</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>PSU</grapheme>
+    <alias>P S U</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SCA</grapheme>
+    <alias>S C A</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>XCS</grapheme>
+    <alias>X C S</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>EFI</grapheme>
+    <alias>E F I</alias>
+  </lexeme>
+</lexicon>
