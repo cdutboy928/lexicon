@@ -520,4 +520,106 @@
     <phoneme>d ao 3 h uan 4</phoneme>
   </lexeme>
 
+  <lexeme>
+    <grapheme>EFI</grapheme>
+    <alias>E F I</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>EMI</grapheme>
+    <alias>E M I</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>PSU</grapheme>
+    <alias>P S U</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SCA</grapheme>
+    <alias>S C A</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>XCS</grapheme>
+    <alias>X C S</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>BITS</grapheme>
+    <alias>B I T S</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>TOD</grapheme>
+    <alias>T O D</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>GE</grapheme>
+    <alias>G E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>10GE</grapheme>
+    <alias>ten G E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>100GE</grapheme>
+    <alias>one hundred G E</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>TDM</grapheme>
+    <alias>T D M</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>E1</grapheme>
+    <alias>E 1</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>MPLS-TP</grapheme>
+    <alias>M P L S T P</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OAM</grapheme>
+    <alias>O A M</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>PTN</grapheme>
+    <alias>P T N</alias>
+  </lexeme>
+    <lexeme>
+    <grapheme>NMS</grapheme>
+    <alias>N M S</alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>阻塞</grapheme>
+    <phoneme>zǔ sè</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>转速</grapheme>
+    <phoneme>zhuàn sù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>调度</grapheme>
+    <phoneme>diào dù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>负载</grapheme>
+    <phoneme>fù zài</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>处理</grapheme>
+    <phoneme>chǔ lǐ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>热量</grapheme>
+    <phoneme>rè liàng</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>N+1</grapheme>
+    <alias>N 加 1</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>N+N</grapheme>
+    <alias>N 加 N</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Xross-Connect</grapheme>
+    <alias>Cross Connect</alias>
+  </lexeme>
 </lexicon>
