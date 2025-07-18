@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="ipa" xml:lang="zh-cn" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
-
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="x-microsoft-pinyin" xml:lang="zh-CN" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>BTW</grapheme>
     <alias>By the way</alias>
@@ -195,7 +194,7 @@
   </lexeme>
   <lexeme>
     <grapheme>SLA</grapheme>
-    <phoneme>eh s 4, eh l 4, ei 1</phoneme>
+    <alias>S L A</alias>
   </lexeme>
   <lexeme>
     <grapheme>HQoS</grapheme>
@@ -305,7 +304,6 @@
     <grapheme>License</grapheme>
     <alias>License</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>N^2</grapheme>
     <alias>N的平方</alias>
@@ -458,7 +456,6 @@
     <grapheme>7x24</grapheme>
     <alias>七乘二十四</alias>
   </lexeme>
-
   <lexeme>
     <grapheme>C波段</grapheme>
     <alias>C波段</alias>
@@ -477,49 +474,48 @@
   </lexeme>
   <lexeme>
     <grapheme>合波器</grapheme>
-    <phoneme>h euh 2 b o 1 q i 4</phoneme>
+    <phoneme>he2 bo1 qi4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>分波器</grapheme>
-    <phoneme>f en 1 b o 1 q i 4</phoneme>
+    <phoneme>fen1 bo1 qi4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>掺铒光纤放大器</grapheme>
-    <phoneme>ch an 1 er 4 g uang 1 x ian 1 f ang 4 d a 4 q i 4</phoneme>
+    <phoneme>chan1 er4 guang1 xian1 fang4 da4 qi4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>环行器</grapheme>
-    <phoneme>h uan 2 x ing 2 q i 4</phoneme>
+    <phoneme>huan2 xing2 qi4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>网络分片</grapheme>
-    <phoneme>u ang 3 l uo 4 f en 1 p ian 4</phoneme>
+    <phoneme>wang3 luo4 fen1 pian4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>拥塞</grapheme>
-    <phoneme>i ong 1 s e 4</phoneme>
+    <phoneme>yong1 se4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>调度</grapheme>
-    <phoneme>d iao 4 d u 4</phoneme>
+    <phoneme>diao4 du4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>队列调度算法</grapheme>
-    <phoneme>d ui 4 l ie 4 d iao 4 d u 4 s uan 4 f a 3</phoneme>
+    <phoneme>dui4 lie4 diao4 du4 suan4 fa3</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>精确调度</grapheme>
-    <phoneme>j ing 1 q ue 4 d iao 4 d u 4</phoneme>
+    <phoneme>jing1 que4 diao4 du4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>时隙</grapheme>
-    <phoneme>sh ir 2 x i 4</phoneme>
+    <phoneme>shi2 xi4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>倒换</grapheme>
-    <phoneme>d ao 3 h uan 4</phoneme>
+    <phoneme>dao3 huan4</phoneme>
   </lexeme>
-
   <lexeme>
     <grapheme>EFI</grapheme>
     <alias>E F I</alias>
@@ -569,47 +565,29 @@
     <alias>E 1</alias>
   </lexeme>
   <lexeme>
-    <grapheme>MPLS-TP</grapheme>
-    <alias>M P L S T P</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>OAM</grapheme>
     <alias>O A M</alias>
   </lexeme>
   <lexeme>
-    <grapheme>PTN</grapheme>
-    <alias>P T N</alias>
-  </lexeme>
-    <lexeme>
-    <grapheme>NMS</grapheme>
-    <alias>N M S</alias>
-  </lexeme>
-
-  <lexeme>
     <grapheme>阻塞</grapheme>
-    <phoneme>zǔ sè</phoneme>
+    <phoneme>zu3 se4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>转速</grapheme>
-    <phoneme>zhuàn sù</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>调度</grapheme>
-    <phoneme>diào dù</phoneme>
+    <phoneme>zhuan4 su4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>负载</grapheme>
-    <phoneme>fù zài</phoneme>
+    <phoneme>fu4 zai4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>处理</grapheme>
-    <phoneme>chǔ lǐ</phoneme>
+    <phoneme>chu3 li3</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>热量</grapheme>
-    <phoneme>rè liàng</phoneme>
+    <phoneme>re4 liang4</phoneme>
   </lexeme>
-
   <lexeme>
     <grapheme>N+1</grapheme>
     <alias>N 加 1</alias>
