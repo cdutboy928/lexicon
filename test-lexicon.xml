@@ -1,11 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lexicon version="1.0"
-         xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-         alphabet="x-microsoft-pinyin" xml:lang="zh-CN">
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="x-microsoft-pinyin" xml:lang="zh-CN" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+
   <lexeme>
-    <grapheme>EMI</grapheme>
-    <alias>E M I</alias>
+    <grapheme>LPU</grapheme>
+    <phoneme>L P U</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>CXP</grapheme>
+    <phoneme>C X P</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PIU</grapheme>
+    <phoneme>P I U</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>QoS</grapheme>
+    <phoneme>Q O S</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>GE</grapheme>
+    <phoneme>G E</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PTN</grapheme>
+    <phoneme>P T N</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>OptiX</grapheme>
+    <phoneme>OptiX</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>slot</grapheme>
+    <phoneme>slot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>TPE1CXPB</grapheme>
+    <phoneme>T P E 一 C X P B</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>1-24</grapheme>
+    <phoneme>一到二十四</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>1-12</grapheme>
+    <phoneme>一到十二</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>13-24</grapheme>
+    <phoneme>十三到二十四</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>1Tbit/s</grapheme>
+    <phoneme>一 T 比特每秒</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>W</grapheme>
+    <phoneme>wǎ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>7900E-24</grapheme>
+    <phoneme>七九零零 E 杠二十四</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>2*200GE+2*100GE+8*50GE+8*10GE+32GE</grapheme>
+    <phoneme>两个两百 G E 加两个一百 G E 加八个五十 G E 加八个十 G E 加三十二 G E</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>处理</grapheme>
+    <phoneme>chu3 li3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>槽位</grapheme>
+    <phoneme>cao2 wei4</phoneme>
   </lexeme>
 </lexicon>

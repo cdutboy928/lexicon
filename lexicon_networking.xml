@@ -1,679 +1,441 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="x-microsoft-pinyin" xml:lang="zh-CN" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
-    <grapheme>BTW</grapheme>
-    <alias>By the way</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LSAck</grapheme>
-    <alias>L S A C K</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>AllDRouters</grapheme>
-    <alias>all D routers</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>AllSPFRouters</grapheme>
-    <alias>all SPF routers</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>P2MP</grapheme>
-    <alias>P to M P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>WDM</grapheme>
-    <alias>W D M</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Mux</grapheme>
-    <alias>Multiplexer</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Demux</grapheme>
-    <alias>Demultiplexer</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OSC</grapheme>
-    <alias>O S C</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OA</grapheme>
-    <alias>O A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>EDFA</grapheme>
-    <alias>E D F A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>BA</grapheme>
-    <alias>B A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LA</grapheme>
-    <alias>L A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PA</grapheme>
-    <alias>P A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>DCN</grapheme>
-    <alias>D C N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>NEs</grapheme>
-    <alias>N E s</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>NMS</grapheme>
-    <alias>N M S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SFIU</grapheme>
-    <alias>S F I U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SFU</grapheme>
-    <alias>S F U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OTN</grapheme>
-    <alias>O T N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>FIU</grapheme>
-    <alias>F I U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OTU</grapheme>
-    <alias>O T U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SNMP</grapheme>
-    <alias>S N M P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PTN</grapheme>
-    <alias>P T N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SDN</grapheme>
-    <alias>S D N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>FlexE</grapheme>
-    <alias>Flex E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SR-TP</grapheme>
-    <alias>S R T P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IFIT</grapheme>
-    <alias>I F I T</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>TWAMP</grapheme>
-    <alias>T W A M P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IP</grapheme>
-    <alias>I P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>MPLS-TP</grapheme>
-    <alias>M P L S T P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>MPLS</grapheme>
-    <alias>M P L S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>L2VPN</grapheme>
-    <alias>L 2 V P N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>L3VPN</grapheme>
-    <alias>L 3 V P N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>TE</grapheme>
-    <alias>T E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>QinQ</grapheme>
-    <alias>Q in Q</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>GRE</grapheme>
-    <alias>G R E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LSP</grapheme>
-    <alias>L S P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LSR</grapheme>
-    <alias>L S R</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LFIB</grapheme>
-    <alias>L F I B</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PHP</grapheme>
-    <alias>P H P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LDP</grapheme>
-    <alias>L D P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>RSVP-TE</grapheme>
-    <alias>R S V P T E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>QoS</grapheme>
-    <alias>Q O S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>VLAN</grapheme>
-    <alias>V L A N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ID</grapheme>
-    <alias>I D</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>CPU</grapheme>
-    <alias>C P U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IEEE</grapheme>
-    <alias>I triple E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SLA</grapheme>
-    <alias>S L A </alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>HQoS</grapheme>
-    <alias>H Q O S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>VPN</grapheme>
-    <alias>V P N</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>VLL</grapheme>
-    <alias>V L L</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PWE3</grapheme>
-    <alias>P W E 三</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>MAC</grapheme>
-    <alias>M A C</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PHY</grapheme>
-    <alias>P H Y</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>FlexE Shim</grapheme>
-    <alias>FlexE的Shim层</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>NCE</grapheme>
-    <alias>N C E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>AI</grapheme>
-    <alias>A I</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>GPS</grapheme>
-    <alias>G P S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PTP</grapheme>
-    <alias>P T P</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LTE</grapheme>
-    <alias>L T E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IPv6</grapheme>
-    <alias>I P v 六</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OSPFv3</grapheme>
-    <alias>O S P F v 三</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IS-ISv6</grapheme>
-    <alias>I S I S v 六</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>FIB</grapheme>
-    <alias>F I B</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IN</grapheme>
-    <alias>in</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OUT</grapheme>
-    <alias>out</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>TC</grapheme>
-    <alias>T C</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>RC</grapheme>
-    <alias>R C</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>TM</grapheme>
-    <alias>T M</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>RM</grapheme>
-    <alias>R M</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OptiX</grapheme>
-    <alias>Optics</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>HedEx</grapheme>
-    <alias>Hed Ex</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Info-Finder</grapheme>
-    <alias>Info Finder</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Schema</grapheme>
-    <alias>Schema</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>License</grapheme>
-    <alias>License</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>N^2</grapheme>
-    <alias>N的平方</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>N x (N-1)/2</grapheme>
-    <alias>N乘以N减1除以2</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>2N-3</grapheme>
-    <alias>2N减3</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>N-2</grapheme>
-    <alias>N减2</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ST2</grapheme>
-    <alias>ST二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>3R</grapheme>
-    <alias>三R</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>4K</grapheme>
-    <alias>四K</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LINE1</grapheme>
-    <alias>Line一</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>LINE2</grapheme>
-    <alias>Line二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SYS1</grapheme>
-    <alias>SYS一</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SYS2</grapheme>
-    <alias>SYS二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OSC1</grapheme>
-    <alias>OSC一</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>OSC2</grapheme>
-    <alias>OSC二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>1+1</grapheme>
-    <alias>一加一</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IEEE 1588v2</grapheme>
-    <alias>I triple E 一五八八 v 二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>802.1ad</grapheme>
-    <alias>八零二点一 A D</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>802.1Q</grapheme>
-    <alias>八零二点一 Q</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>7900E-12</grapheme>
-    <alias>七九零零E杠12</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>7900E-24</grapheme>
-    <alias>七九零零E杠24</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>7900E-32</grapheme>
-    <alias>七九零零E杠32</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>1588v2</grapheme>
-    <alias>一五八八 v 二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>G.8273.2</grapheme>
-    <alias>G点八二七三点二</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>100G</grapheme>
-    <alias>一百G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>400G</grapheme>
-    <alias>四百G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>30G</grapheme>
-    <alias>三十G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>50G</grapheme>
-    <alias>五十G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>20G</grapheme>
-    <alias>二十G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>10G</grapheme>
-    <alias>十G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>5G</grapheme>
-    <alias>五G</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ns</grapheme>
-    <alias>纳秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>us</grapheme>
-    <alias>微秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>±30ns</grapheme>
-    <alias>正负三十纳秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>±1us</grapheme>
-    <alias>正负一微秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>±5ns</grapheme>
-    <alias>正负五纳秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>±200ns</grapheme>
-    <alias>正负两百纳秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>120000s</grapheme>
-    <alias>十二万秒</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>64B/66B</grapheme>
-    <alias>六十四B斜杠六十六B</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>7x24</grapheme>
-    <alias>七乘二十四</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>C波段</grapheme>
-    <alias>C波段</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>法拉第效应</grapheme>
-    <alias>法拉第效应</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Add</grapheme>
-    <alias>上路</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Drop</grapheme>
-    <alias>下路</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>合波器</grapheme>
-    <phoneme>he2 bo1 qi4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>分波器</grapheme>
-    <phoneme>fen1 bo1 qi4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>掺铒光纤放大器</grapheme>
-    <phoneme>chan1 er4 guang1 xian1 fang4 da4 qi4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>环行器</grapheme>
-    <phoneme>huan2 xing2 qi4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>网络分片</grapheme>
-    <phoneme>wang3 luo4 fen1 pian4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>拥塞</grapheme>
-    <phoneme>yong1 se4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>调度</grapheme>
-    <phoneme>diao4 du4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>队列调度算法</grapheme>
-    <phoneme>dui4 lie4 diao4 du4 suan4 fa3</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>精确调度</grapheme>
-    <phoneme>jing1 que4 diao4 du4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>时隙</grapheme>
-    <phoneme>shi2 xi4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>倒换</grapheme>
-    <phoneme>dao3 huan4</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>EFI</grapheme>
-    <alias>E F I</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>EMI</grapheme>
-    <alias>E M I</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PSU</grapheme>
-    <alias>P S U</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>SCA</grapheme>
-    <alias>S C A</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>XCS</grapheme>
-    <alias>X C S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>BITS</grapheme>
-    <alias>B I T S</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>TOD</grapheme>
-    <alias>T O D</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>GE</grapheme>
-    <alias>G E</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>10GE</grapheme>
-    <alias>ten G E</alias>
+    <grapheme>TPAD000EH102</grapheme>
+    <phoneme>T P A D líng líng líng E H yāo líng èr</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>100GE</grapheme>
-    <alias>one hundred G E</alias>
+    <phoneme>yī bǎi G E</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>TDM</grapheme>
-    <alias>T D M</alias>
+    <grapheme>03056873</grapheme>
+    <phoneme>líng sān líng wǔ liù bā qī sān</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>E1</grapheme>
-    <alias>E 1</alias>
+    <grapheme>A2EH1</grapheme>
+    <phoneme>A èr E H yī</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>OAM</grapheme>
-    <alias>O A M</alias>
+    <grapheme>STAT</grapheme>
+    <phoneme>S T A T</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>阻塞</grapheme>
-    <phoneme>zu3 se4</phoneme>
+    <grapheme>ACT</grapheme>
+    <phoneme>A C T</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>转速</grapheme>
-    <phoneme>zhuan4 su4</phoneme>
+    <grapheme>PROG</grapheme>
+    <phoneme>P R O G</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>负载</grapheme>
-    <phoneme>fu4 zai4</phoneme>
+    <grapheme>SRV</grapheme>
+    <phoneme>S R V</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>处理</grapheme>
-    <phoneme>chu3 li3</phoneme>
+    <grapheme>L/A</grapheme>
+    <phoneme>L xié gàng A</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>热量</grapheme>
-    <phoneme>re4 liang4</phoneme>
+    <grapheme>OUT1 IN1</grapheme>
+    <phoneme>OUT yī IN yī</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>N+1</grapheme>
-    <alias>N 加 1</alias>
+    <grapheme>CFP</grapheme>
+    <phoneme>C F P</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>N+N</grapheme>
-    <alias>N 加 N</alias>
+    <grapheme>100Gbps</grapheme>
+    <phoneme>yī bǎi G B P S</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Xross-Connect</grapheme>
-    <alias>Cross Connect</alias>
-  </lexeme>
-
-  <lexeme>
-    <grapheme>LPU</grapheme>
-    <phoneme>L P U</phoneme>
+    <grapheme>MAC</grapheme>
+    <phoneme>M A C</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>CXP</grapheme>
-    <phoneme>C X P</phoneme>
+    <grapheme>MTU</grapheme>
+    <phoneme>M T U</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>PIU</grapheme>
-    <phoneme>P I U</phoneme>
+    <grapheme>CPLD</grapheme>
+    <phoneme>C P L D</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>QoS</grapheme>
-    <phoneme>Q O S</phoneme>
+    <grapheme>CPU</grapheme>
+    <phoneme>C P U</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>GE</grapheme>
-    <phoneme>G E</phoneme>
+    <grapheme>BIOS</grapheme>
+    <phoneme>B I O S</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>PTN</grapheme>
-    <phoneme>P T N</phoneme>
-  </lexeme>
-
-  <lexeme>
-    <grapheme>OptiX</grapheme>
-    <phoneme>OptiX</phoneme>
+    <grapheme>FlexE</grapheme>
+    <phoneme>Flex E</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>slot</grapheme>
-    <phoneme>slot</phoneme>
+    <grapheme>100G</grapheme>
+    <phoneme>yī bǎi G</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>TPE1CXPB</grapheme>
-    <phoneme>T P E 一 C X P B</phoneme>
+    <grapheme>ms</grapheme>
+    <phoneme>háo miǎo</phoneme>
   </lexeme>
-
-  <lexeme>
-    <grapheme>1-24</grapheme>
-    <phoneme>一到二十四</phoneme>
+   <lexeme>
+    <grapheme>250ms</grapheme>
+    <phoneme>èr bǎi wǔ shí háo miǎo</phoneme>
   </lexeme>
-  <lexeme>
-    <grapheme>1-12</grapheme>
-    <phoneme>一到十二</phoneme>
+   <lexeme>
+    <grapheme>100ms</grapheme>
+    <phoneme>yī bǎi háo miǎo</phoneme>
   </lexeme>
-  <lexeme>
-    <grapheme>13-24</grapheme>
-    <phoneme>十三到二十四</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>1Tbit/s</grapheme>
-    <phoneme>一 T 比特每秒</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>W</grapheme>
-    <phoneme>wǎ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>7900E-24</grapheme>
-    <phoneme>七九零零 E 杠二十四</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>2*200GE+2*100GE+8*50GE+8*10GE+32GE</grapheme>
-    <phoneme>两个两百 G E 加两个一百 G E 加八个五十 G E 加八个十 G E 加三十二 G E</phoneme>
+   <lexeme>
+    <grapheme>300ms</grapheme>
+    <phoneme>sān bǎi háo miǎo</phoneme>
   </lexeme>
 
   <lexeme>
-    <grapheme>处理</grapheme>
-    <phoneme>chu3 li3</phoneme>
+    <grapheme>处理板</grapheme>
+    <phoneme>chǔ lǐ bǎn</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>槽位</grapheme>
-    <phoneme>cao2 wei4</phoneme>
+    <grapheme>输入</grapheme>
+    <phoneme>shū rù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>软件</grapheme>
+    <phoneme>ruǎn jiàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>掩码</grapheme>
+    <phoneme>yǎn mǎ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>华为</grapheme>
+    <phoneme>huá wéi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>广播</grapheme>
+    <phoneme>guǎng bō</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>手动</grapheme>
+    <phoneme>shǒu dòng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>映射</grapheme>
+    <phoneme>yìng shè</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>最短路径</grapheme>
+    <phoneme>zuì duǎn lù jìng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>最优路径</grapheme>
+    <phoneme>zuì yōu lù jìng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>网元</grapheme>
+    <phoneme>wǎng yuán</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>网络</grapheme>
+    <phoneme>wǎng luò</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>单元</grapheme>
+    <phoneme>dān yuán</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>1路</grapheme>
+    <phoneme>yī lù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>以太网</grapheme>
+    <phoneme>yǐ tài wǎng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>业务</grapheme>
+    <phoneme>yè wù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>部件</grapheme>
+    <phoneme>bù jiàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>编码</grapheme>
+    <phoneme>biān mǎ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>型号</grapheme>
+    <phoneme>xíng hào</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>单板</grapheme>
+    <phoneme>dān bǎn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>丝印</grapheme>
+    <phoneme>sī yìn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>工作</grapheme>
+    <phoneme>gōng zuò</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>状态</grapheme>
+    <phoneme>zhuàng tài</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>指示灯</grapheme>
+    <phoneme>zhǐ shì dēng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>常亮</grapheme>
+    <phoneme>cháng liàng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>硬件</grapheme>
+    <phoneme>yìng jiàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>故障</grapheme>
+    <phoneme>gù zhàng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>间隔</grapheme>
+    <phoneme>jiān gé</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>闪烁</grapheme>
+    <phoneme>shǎn shuò</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>维护</grapheme>
+    <phoneme>wéi hù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>上电</grapheme>
+    <phoneme>shàng diàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>运行</grapheme>
+    <phoneme>yùn xíng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>激活</grapheme>
+    <phoneme>jī huó</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>主备</grapheme>
+    <phoneme>zhǔ bèi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>橙色</grapheme>
+    <phoneme>chéng sè</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>供电</grapheme>
+    <phoneme>gōng diàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>能力</grapheme>
+    <phoneme>néng lì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>不足</grapheme>
+    <phoneme>bù zú</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>允许</grapheme>
+    <phoneme>yǔn xǔ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>子卡</grapheme>
+    <phoneme>zǐ kǎ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>程序</grapheme>
+    <phoneme>chéng xù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>初始化</grapheme>
+    <phoneme>chū shǐ huà</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>内存</grapheme>
+    <phoneme>nèi cún</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>自检</grapheme>
+    <phoneme>zì jiǎn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>逻辑</grapheme>
+    <phoneme>luó ji</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>丢失</grapheme>
+    <phoneme>diū shī</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>加载</grapheme>
+    <phoneme>jiā zài</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>引导</grapheme>
+    <phoneme>yǐn dǎo</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>上层</grapheme>
+    <phoneme>shàng céng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>告警</grapheme>
+    <phoneme>gào jǐng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>配置</grapheme>
+    <phoneme>pèi zhì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>紧急</grapheme>
+    <phoneme>jǐn jí</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>主要</grapheme>
+    <phoneme>zhǔ yào</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>次要</grapheme>
+    <phoneme>cì yào</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>远端</grapheme>
+    <phoneme>yuǎn duān</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>端口</grapheme>
+    <phoneme>duān kǒu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>连接</grapheme>
+    <phoneme>lián jiē</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>数据</grapheme>
+    <phoneme>shù jù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>收发</grapheme>
+    <phoneme>shōu fā</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>复用</grapheme>
+    <phoneme>fù yòng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>连接器</grapheme>
+    <phoneme>lián jiē qì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>输出</grapheme>
+    <phoneme>shū chū</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>光模块</grapheme>
+    <phoneme>guāng mó kuài</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>模式</grapheme>
+    <phoneme>mó shì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>全双工</grapheme>
+    <phoneme>quán shuāng gōng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>线速</grapheme>
+    <phoneme>xiàn sù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>激光器</grapheme>
+    <phoneme>jī guāng qì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>关断</grapheme>
+    <phoneme>guān duàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>环回</grapheme>
+    <phoneme>huán huí</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>解环回</grapheme>
+    <phoneme>jiě huán huí</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>带宽</grapheme>
+    <phoneme>dài kuān</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>利用率</grapheme>
+    <phoneme>lì yòng lǜ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>统计</grapheme>
+    <phoneme>tǒng jì</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>960～9600字节</grapheme>
+    <phoneme>jiǔ bǎi liù shí dào jiǔ qiān liù bǎi zì jié</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>越限</grapheme>
+    <phoneme>yuè xiàn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>分级</grapheme>
+    <phoneme>fēn jí</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>性能</grapheme>
+    <phoneme>xìng néng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>优先级</grapheme>
+    <phoneme>yōu xiān jí</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>精度</grapheme>
+    <phoneme>jīng dù</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>时钟</grapheme>
+    <phoneme>shí zhōng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>可靠性</grapheme>
+    <phoneme>kě kào xìng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>可用性</grapheme>
+    <phoneme>kě yòng xìng</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>热插拔</grapheme>
+    <phoneme>rè chā bá</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>散列</grapheme>
+    <phoneme>sǎn liè</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>速率</grapheme>
+    <phoneme>sù lǜ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>自适应</grapheme>
+    <phoneme>zì shì yìng</phoneme>
   </lexeme>
 </lexicon>
